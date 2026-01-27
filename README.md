@@ -1,74 +1,139 @@
+![GitHubCard](https://githubcard.com/MbuyeloMich.svg)
+
 <div align="center">
-
-<!-- Animated Typing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=MBUYELO+MICH;Data+Engineering+Architect;Johannesburg+%F0%9F%8C%8D" alt="Typing Animation" />
-
-<!-- Centered GIFs -->
-<br/>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiMGY0cG5sZmhyMjVybWdteWhidTNnenIwcW55b3o5bWhxeTF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="280" height="160" />
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZzNjl4anZ3cnFhbjE5Y3FrMzduYzJxbTF0cjRkYzBqaHZkaWRrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fo2db15Hus2pFvxoHq/giphy.gif" width="280" height="160" />
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iY2h1dzBleDAwYXdiMThyZ3B0bDdpdXF3Mm4wanhqb3gxZmV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" width="280" height="160" />
-
-<!-- Dynamic Snake -->
-![GitHub Snake Dark](https://raw.githubusercontent.com/MbuyeloMich/MbuyeloMich/output/github-contribution-grid-snake-dark.svg)
-*Snake eating my real GitHub contributions - Updates every 6 hours*
-
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiMGY0cG5sZmhyMjVybWdteWhidTNnenIwcW55b3o5bWhxeTF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="280" height="160" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZzNjl4anZ3cnFhbjE5Y3FrMzduYzJxbTF0cjRkYzBqaHZkaWRrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fo2db15Hus2pFvxoHq/giphy.gif" width="280" height="160" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iY2h1dzBleDAwYXdiMThyZ3B0bDdpdXF3Mm4wanhqb3gxZmV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" width="280" height="160" />
 </div>
 
-<br/>
-
 <div align="center">
+  
+# 🚀 **MBUYELO MICH** | Elite Data Engineering & Full-Stack Architect
+### **📍 Johannesburg, SA** | **Building Scalable Systems & Data Pipelines**
 
-<!-- Social Media Links -->
-### 🌐 CONNECT WITH ME
-
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbuyelomich)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MbuyeloMich)
+[![LinkedIn](https://img.shields.io/badge/-CONNECT_PROFESSIONALLY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
+[![Portfolio](https://img.shields.io/badge/-VIEW_PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://mbuyelo.dev)
+[![Email](https://img.shields.io/badge/-STRATEGIC_INQUIRIES-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strategy@mbuyelo.dev)
 
 </div>
 
 ---
 
-## 🛠️ TECHNICAL STACK
+## 🏆 **TECHNICAL MASTERY**
 
-### **⚡ DATA ENGINEERING & CLOUD**
+### **🔷 DATA ENGINEERING ECOSYSTEM**
+```python
+# Production Systems Architecture
+Data Pipelines | Distributed Computing | Cloud Infrastructure | Real-time Analytics
+```
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="60" />
+      <br/><b>Apache Spark</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" />
+      <br/><b>Apache Kafka</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
+      <br/><b>Python</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/airflow/airflow-icon.svg" width="60" />
+      <br/><b>Airflow</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="60" />
+      <br/><b>Snowflake</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />
+      <br/><b>AWS</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" />
+      <br/><b>GCP</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
+      <br/><b>Docker</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" />
+      <br/><b>Kubernetes</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" />
+      <br/><b>Terraform</b>
+    </td>
+  </tr>
+</table>
 
-| **Big Data** | **Cloud & DevOps** | **Databases** |
-|--------------|-------------------|---------------|
-| ![Spark](https://img.shields.io/badge/Apache_Spark-FF6F00?style=flat-square&logo=apachespark&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white) |
+### **🔶 FULL-STACK ARCHITECTURE**
+```javascript
+// Enterprise-Grade Applications
+React | Node.js | Microservices | TypeScript | Real-time Systems
+```
 
-</div>
-
-### **🎨 FULL-STACK DEVELOPMENT**
-
-<div align="center">
-
-| **Frontend** | **Backend** | **Tools** |
-|--------------|-------------|-----------|
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) | ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" />
+      <br/><b>TypeScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
+      <br/><b>React</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
+      <br/><b>Next.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" />
+      <br/><b>NestJS</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
+      <br/><b>PostgreSQL</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 🚀 **SIGNATURE PROJECTS**
+
+| **Project** | **Stack** | **Impact** | **Status** |
+|-------------|-----------|------------|------------|
+| **[Real-time Financial Analytics Platform](https://github.com/MbuyeloMich/finance-platform)** | Spark, Kafka, Airflow, Snowflake | Processed 10TB+ daily transactions with <100ms latency | 🟢 **Production** |
+| **[Healthcare ETL Orchestration](https://github.com/MbuyeloMich/healthcare-etl)** | Python, dbt, PostgreSQL, Docker | Reduced data processing time by 70% for 50+ hospitals | 🟢 **Production** |
+| **[Enterprise Dashboard SaaS](https://github.com/MbuyeloMich/enterprise-dashboard)** | Next.js 14, FastAPI, Redis, Docker | Microservices with real-time WebSocket updates | 🟡 **Beta** |
+| **[IoT Sensor Data Pipeline](https://github.com/MbuyeloMich/iot-pipeline)** | AWS Lambda, Kinesis, S3, Redshift | Handled 1M+ events/sec with 99.99% uptime | 🟢 **Production** |
+| **[AI-Powered Analytics Platform](https://github.com/MbuyeloMich/ai-analytics)** | React, Node.js, Python ML, PostgreSQL | JWT auth, RBAC, advanced visualization | 🟡 **Beta** |
+
+---
+
+## 📊 **ELITE PERFORMANCE METRICS**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MbuyeloMich&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+```python
+# Engineering Impact (Q4 2024)
+daily_data_processed = "15-25 TB"        # Pipeline throughput
+system_availability = "99.95%"           # Production SLA
+api_response_time = "< 50ms p95"         # Backend performance
+data_quality_score = "99.8%"             # Data reliability
+team_leadership = "3+ engineering teams" # Technical leadership
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbuyeloMich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MbuyeloMich&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbuyeloMich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MbuyeloMich&theme=dark&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff)
 
@@ -76,107 +141,39 @@
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## 🏗️ **ENGINEERING PHILOSOPHY**
 
-| **Project** | **Description** | **Tech Stack** | **Status** |
-|-------------|-----------------|----------------|------------|
-| **[Financial Data Pipeline](https://github.com/MbuyeloMich/finance-pipeline)** | Real-time processing of 10TB+ daily transactions | Spark, Kafka, Airflow | 🟢 **Live** |
-| **[Cloud Monitoring Dashboard](https://github.com/MbuyeloMich/cloud-dashboard)** | AWS/GCP infrastructure monitoring platform | React, Node.js, Docker | 🟡 **Beta** |
-| **[IoT Analytics System](https://github.com/MbuyeloMich/iot-analytics)** | Process 1M+ IoT events per second | Python, FastAPI, Redis | 🟢 **Live** |
-| **[DevOps Automation](https://github.com/MbuyeloMich/devops-auto)** | CI/CD pipelines & infrastructure automation | Terraform, K8s, Jenkins | 🟢 **Active** |
-
----
-
-## 🎮 GAMING & COMMUNITY
+```python
+"""
+ARCHITECTURE PRINCIPLES:
+1. SCALABILITY FIRST → Design for 10x current load
+2. OBSERVABILITY DRIVEN → Metrics, logs, traces in all systems
+3. INFRASTRUCTURE AS CODE → Reproducible, versioned environments
+4. DATA QUALITY AS FEATURE → Validation at every pipeline stage
+5. SECURITY BY DESIGN → Zero-trust, defense in depth architecture
+"""
+```
 
 <div align="center">
 
-### **When I'm Not Coding...**
-
+### **📈 CURRENT FOCUS AREAS**
 ```python
-current_games = ["Cyberpunk 2077", "Baldur's Gate 3", "CS2"]
-steam_id = "MbuyeloMich"
-discord_tag = "mbuyelo#1337"
-game_dev = "Unity & Unreal Engine"
+current_focus = [
+    "Real-time stream processing at petabyte scale",
+    "MLOps pipeline automation",
+    "Edge computing for IoT applications",
+    "Green computing optimization"
+]
 ```
-
-[![Steam Profile](https://img.shields.io/badge/Steam_Profile-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
-[![Discord Status](https://img.shields.io/badge/Discord-Online-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-
-</div>
 
 ---
 
-## ⚙️ SNAKE SETUP INSTRUCTIONS
+### **🌐 CONNECT FOR STRATEGIC COLLABORATION**
 
-### **1. Create Workflow File**
-Create `.github/workflows/snake.yml` in your repository:
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MbuyeloMich)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mbuyelomich)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mbuyelomich)
 
-```yaml
-name: Update Snake Game
-
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: MbuyeloMich
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
-          publish_branch: output
-```
-
-### **2. First Time Setup**
-```bash
-# Make your first commit
-git add .
-git commit -m "Initial commit with snake setup"
-git push origin main
-```
-
-### **3. Enable GitHub Pages**
-- Go to **Settings → Pages**
-- **Source**: Deploy from a branch
-- **Branch**: `output` folder: `/ (root)`
-- Click **Save**
-
----
-
-<div align="center">
-
-## 📬 LET'S CONNECT
-
-```python
-if looking_for_collaboration:
-    message = "Let's build something amazing!"
-elif want_to_network:
-    platform = ["X", "LinkedIn", "Discord"]
-elif gaming_session:
-    platform = "Steam or Discord"
-```
-
-**⭐ Star my repositories if you find them useful!**
-
-**"Data pipelines by day, gaming by night"**
+*"Building systems that process tomorrow's data, today."*
 
 </div>
