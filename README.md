@@ -1,1 +1,1 @@
-https://githubcard.com/g/bPOEJdlv.svg
+![GitHubCard](https://githubcard.com/MbuyeloMich.svg)
