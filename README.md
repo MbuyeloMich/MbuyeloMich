@@ -11,9 +11,11 @@
 # 🚀 **MBUYELO MICH** | Elite Data Engineering & Full-Stack Architect
 ### **📍 Johannesburg, SA** | **Building Scalable Systems & Data Pipelines**
 
-[![LinkedIn](https://img.shields.io/badge/-CONNECT_PROFESSIONALLY-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
-[![Portfolio](https://img.shields.io/badge/-VIEW_PORTFOLIO-000000?style=for-the-badge&logo=github&logoColor=white)](https://mbuyelo.dev)
-[![Email](https://img.shields.io/badge/-STRATEGIC_INQUIRIES-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:strategy@mbuyelo.dev)
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbuyelomich)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mbuyelo.dev)
 
 </div>
 
@@ -22,10 +24,7 @@
 ## 🏆 **TECHNICAL MASTERY**
 
 ### **🔷 DATA ENGINEERING ECOSYSTEM**
-```python
-# Production Systems Architecture
-Data Pipelines | Distributed Computing | Cloud Infrastructure | Real-time Analytics
-```
+*Data Pipelines • Distributed Computing • Cloud Infrastructure • Real-time Analytics*
 
 <table align="center">
   <tr>
@@ -75,10 +74,7 @@ Data Pipelines | Distributed Computing | Cloud Infrastructure | Real-time Analyt
 </table>
 
 ### **🔶 FULL-STACK ARCHITECTURE**
-```javascript
-// Enterprise-Grade Applications
-React | Node.js | Microservices | TypeScript | Real-time Systems
-```
+*React • Node.js • Microservices • TypeScript • Real-time Systems*
 
 <table align="center">
   <tr>
@@ -111,11 +107,11 @@ React | Node.js | Microservices | TypeScript | Real-time Systems
 
 | **Project** | **Stack** | **Impact** | **Status** |
 |-------------|-----------|------------|------------|
-| **[Real-time Financial Analytics Platform](https://github.com/MbuyeloMich/finance-platform)** | Spark, Kafka, Airflow, Snowflake | Processed 10TB+ daily transactions with <100ms latency | 🟢 **Production** |
-| **[Healthcare ETL Orchestration](https://github.com/MbuyeloMich/healthcare-etl)** | Python, dbt, PostgreSQL, Docker | Reduced data processing time by 70% for 50+ hospitals | 🟢 **Production** |
-| **[Enterprise Dashboard SaaS](https://github.com/MbuyeloMich/enterprise-dashboard)** | Next.js 14, FastAPI, Redis, Docker | Microservices with real-time WebSocket updates | 🟡 **Beta** |
-| **[IoT Sensor Data Pipeline](https://github.com/MbuyeloMich/iot-pipeline)** | AWS Lambda, Kinesis, S3, Redshift | Handled 1M+ events/sec with 99.99% uptime | 🟢 **Production** |
-| **[AI-Powered Analytics Platform](https://github.com/MbuyeloMich/ai-analytics)** | React, Node.js, Python ML, PostgreSQL | JWT auth, RBAC, advanced visualization | 🟡 **Beta** |
+| **Real-time Financial Analytics Platform** | Spark, Kafka, Airflow, Snowflake | Processed 10TB+ daily transactions with <100ms latency | 🟢 **Production** |
+| **Healthcare ETL Orchestration** | Python, dbt, PostgreSQL, Docker | Reduced data processing time by 70% for 50+ hospitals | 🟢 **Production** |
+| **Enterprise Dashboard SaaS** | Next.js 14, FastAPI, Redis, Docker | Microservices with real-time WebSocket updates | 🟡 **Beta** |
+| **IoT Sensor Data Pipeline** | AWS Lambda, Kinesis, S3, Redshift | Handled 1M+ events/sec with 99.99% uptime | 🟢 **Production** |
+| **AI-Powered Analytics Platform** | React, Node.js, Python ML, PostgreSQL | JWT auth, RBAC, advanced visualization | 🟡 **Beta** |
 
 ---
 
@@ -123,14 +119,7 @@ React | Node.js | Microservices | TypeScript | Real-time Systems
 
 <div align="center">
 
-```python
-# Engineering Impact (Q4 2024)
-daily_data_processed = "15-25 TB"        # Pipeline throughput
-system_availability = "99.95%"           # Production SLA
-api_response_time = "< 50ms p95"         # Backend performance
-data_quality_score = "99.8%"             # Data reliability
-team_leadership = "3+ engineering teams" # Technical leadership
-```
+**Daily Data Processed:** 15-25 TB • **System Availability:** 99.95% • **API Response:** <50ms p95
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MbuyeloMich&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbuyeloMich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
@@ -143,36 +132,26 @@ team_leadership = "3+ engineering teams" # Technical leadership
 
 ## 🏗️ **ENGINEERING PHILOSOPHY**
 
-```python
-"""
-ARCHITECTURE PRINCIPLES:
-1. SCALABILITY FIRST → Design for 10x current load
-2. OBSERVABILITY DRIVEN → Metrics, logs, traces in all systems
-3. INFRASTRUCTURE AS CODE → Reproducible, versioned environments
-4. DATA QUALITY AS FEATURE → Validation at every pipeline stage
-5. SECURITY BY DESIGN → Zero-trust, defense in depth architecture
-"""
-```
+**SCALABILITY FIRST** → Design for 10x current load  
+**OBSERVABILITY DRIVEN** → Metrics, logs, traces in all systems  
+**INFRASTRUCTURE AS CODE** → Reproducible, versioned environments  
+**DATA QUALITY AS FEATURE** → Validation at every pipeline stage  
+**SECURITY BY DESIGN** → Zero-trust, defense in depth architecture  
 
 <div align="center">
 
 ### **📈 CURRENT FOCUS AREAS**
-```python
-current_focus = [
-    "Real-time stream processing at petabyte scale",
-    "MLOps pipeline automation",
-    "Edge computing for IoT applications",
-    "Green computing optimization"
-]
-```
+Real-time stream processing at petabyte scale • MLOps pipeline automation • Edge computing for IoT applications • Green computing optimization
 
 ---
 
-### **🌐 CONNECT FOR STRATEGIC COLLABORATION**
+### **🌐 CONNECT & COLLABORATE**
 
+[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbuyelomich)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MbuyeloMich)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mbuyelomich)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mbuyelomich)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
 
 *"Building systems that process tomorrow's data, today."*
 
