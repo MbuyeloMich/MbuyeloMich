@@ -1,14 +1,9 @@
 ## Hi there 👋
 
-<!--
-**MbuyeloMich/MbuyeloMich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... Mnadela App
+ 🔭 I’m currently working on ... Mnadela App
 - 🌱 I’m currently learning ... NextJs
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ... C#
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
