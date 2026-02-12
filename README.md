@@ -3,12 +3,12 @@
 <h3 align="center">Full Stack Developer | DevOps Engineer | Data Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=0088FF,00D88A&width=600&lines=Engineering+Full+Stack+Systems+That+Scale+🚀;Automating+DevOps+Workflows+%26+Cloud+Infrastructure+⚙️;Creating+Real-World+Web+Solutions+That+Matter+💻;Building+Robust+Applications+with+.NET+%26+C%23+🔥;Transforming+Raw+Data+into+Actionable+Insights+📊;Pioneering+AI+%26+Machine+Learning+Solutions+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&color=00FF00,FF0000&width=650&lines=Engineering+Full+Stack+Systems+That+Scale+🚀;Automating+DevOps+Workflows+and+Cloud+Infrastructure+⚙️;Creating+Real+World+Web+Solutions+That+Matter+💻;Building+Robust+Applications+with+.NET+and+C%23+🔥;Transforming+Raw+Data+into+Actionable+Insights+📊;Pioneering+AI+and+Machine+Learning+Solutions+🤖" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400"> -->
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmcjF6cDkwOG02ZTRwNzhmeHUwdGQ3OGlzcXU5dDUxY29lNGhrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91OWU3eG0ydHB2N21iaXByMG84MDdlbDE3YnQxemdmZXZqemVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" width="400" alt="AI GIF">
 </div>
 
 ---
