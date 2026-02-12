@@ -1,158 +1,74 @@
-![GitHubCard](https://githubcard.com/MbuyeloMich.svg)
+<h1 align="center">Hey there 👋, I'm Sourabh</h1>
+<h3 align="center">Engineer | AI/ML Practitioner | Competitive Programmer | Creative Coder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+AI-powered+systems+👨‍💻;Making+machines+see+%F0%9F%96%8D%EF%B8%8F;Solving+problems+with+code+%F0%9F%94%AB" alt="Typing SVG" />
+</p>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2ZiMGY0cG5sZmhyMjVybWdteWhidTNnenIwcW55b3o5bWhxeTF6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="280" height="160" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZzNjl4anZ3cnFhbjE5Y3FrMzduYzJxbTF0cjRkYzBqaHZkaWRrMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fo2db15Hus2pFvxoHq/giphy.gif" width="280" height="160" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm5iY2h1dzBleDAwYXdiMThyZ3B0bDdpdXF3Mm4wanhqb3gxZmV5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iGpHt2H22k1orjgT9b/giphy.gif" width="280" height="160" />
-</div>
-
-<div align="center">
-  
-# 🚀 **MBUYELO MICH** | Elite Data Engineering & Full-Stack Architect
-### **📍 Johannesburg, SA** | **Building Scalable Systems & Data Pipelines**
-
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbuyelomich)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://mbuyelo.dev)
-
+  <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" width="400"> -->
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80">
 </div>
 
 ---
 
-## 🏆 **TECHNICAL MASTERY**
+### 👨‍💻 About Me
+- 🔭 Currently building: **Dropbox-cli**
+- 🌱 Learning: **Generative AI, Fine-Tuning, and Real-Time ML Inference**
+- ⚔️ Competitive Programming: Solving problems on **LeetCode**, **Codeforces**, and **GeeksforGeeks**
+- 💡 Created: 
+  - A **React + Flask AI Web App** for Brain Tumor Detection
+  - A **Peer-to-Peer File Sharing System** with local network discovery
+  - A **Real-time Hairstyle Recommendation App** based on face shape
+- 🚀 Passionate about: Merging **system-level engineering** with **deep learning**
 
-### **🔷 DATA ENGINEERING ECOSYSTEM**
-*Data Pipelines • Distributed Computing • Cloud Infrastructure • Real-time Analytics*
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="60" />
-      <br/><b>Apache Spark</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="60" />
-      <br/><b>Apache Kafka</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" />
-      <br/><b>Python</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/airflow/airflow-icon.svg" width="60" />
-      <br/><b>Airflow</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="60" />
-      <br/><b>Snowflake</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60" />
-      <br/><b>AWS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="60" />
-      <br/><b>GCP</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" />
-      <br/><b>Docker</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60" />
-      <br/><b>Kubernetes</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="60" />
-      <br/><b>Terraform</b>
-    </td>
-  </tr>
-</table>
-
-### **🔶 FULL-STACK ARCHITECTURE**
-*React • Node.js • Microservices • TypeScript • Real-time Systems*
-
-<table align="center">
-  <tr>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" />
-      <br/><b>TypeScript</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" />
-      <br/><b>React</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" />
-      <br/><b>Next.js</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" />
-      <br/><b>NestJS</b>
-    </td>
-    <td align="center" width="140">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
-      <br/><b>PostgreSQL</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Graphical27" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/018d1ba9-b1b5-4499-9165-a3b8e78ed26c.svg" alt="Total time coded since Jan 18 2024" />
+</p>
 
 ---
 
-## 🚀 **SIGNATURE PROJECTS**
+### 💼 Tech Stack
 
-| **Project** | **Stack** | **Impact** | **Status** |
-|-------------|-----------|------------|------------|
-| **Real-time Financial Analytics Platform** | Spark, Kafka, Airflow, Snowflake | Processed 10TB+ daily transactions with <100ms latency | 🟢 **Production** |
-| **Healthcare ETL Orchestration** | Python, dbt, PostgreSQL, Docker | Reduced data processing time by 70% for 50+ hospitals | 🟢 **Production** |
-| **Enterprise Dashboard SaaS** | Next.js 14, FastAPI, Redis, Docker | Microservices with real-time WebSocket updates | 🟡 **Beta** |
-| **IoT Sensor Data Pipeline** | AWS Lambda, Kinesis, S3, Redshift | Handled 1M+ events/sec with 99.99% uptime | 🟢 **Production** |
-| **AI-Powered Analytics Platform** | React, Node.js, Python ML, PostgreSQL | JWT auth, RBAC, advanced visualization | 🟡 **Beta** |
+#### 🧠 Languages  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
+#### 🛠️ Frameworks & Libraries  
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat-square&logo=pytorch-lightning)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## 📊 **ELITE PERFORMANCE METRICS**
-
-<div align="center">
-
-**Daily Data Processed:** 15-25 TB • **System Availability:** 99.95% • **API Response:** <50ms p95
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MbuyeloMich&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MbuyeloMich&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MbuyeloMich&theme=dark&hide_border=true&background=0d1117&fire=58a6ff&ring=58a6ff)
-
-</div>
-
----
-
-## 🏗️ **ENGINEERING PHILOSOPHY**
-
-**SCALABILITY FIRST** → Design for 10x current load  
-**OBSERVABILITY DRIVEN** → Metrics, logs, traces in all systems  
-**INFRASTRUCTURE AS CODE** → Reproducible, versioned environments  
-**DATA QUALITY AS FEATURE** → Validation at every pipeline stage  
-**SECURITY BY DESIGN** → Zero-trust, defense in depth architecture  
-
-<div align="center">
-
-### **📈 CURRENT FOCUS AREAS**
-Real-time stream processing at petabyte scale • MLOps pipeline automation • Edge computing for IoT applications • Green computing optimization
+#### 🧰 Tools & DevOps  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### **🌐 CONNECT & COLLABORATE**
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sourabh-singh-76651028a/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn">
+  </a>
+</p>
 
-[![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mbuyelomich)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-id)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/mbuyelomich)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MbuyeloMich)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbuyelomich)
-
-*"Building systems that process tomorrow's data, today."*
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+</p>
