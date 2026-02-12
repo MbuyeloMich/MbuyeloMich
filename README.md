@@ -23,8 +23,20 @@
 ### 🎨 What I Do
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmcjF6cDkwOG02ZTRwNzhmeHUwdGQ3OGlzcXU5dDUxY29lNGhrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Coding GIF">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91OWU3eG0ydHB2N21iaXByMG84MDdlbDE3YnQxemdmZXZqemVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" width="400" alt="AI GIF">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnlmcjF6cDkwOG02ZTRwNzhmeHUwdGQ3OGlzcXU5dDUxY29lNGhrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Coding GIF">
+        <br>
+        <strong>💻 Building & Coding</strong>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW91OWU3eG0ydHB2N21iaXByMG84MDdlbDE3YnQxemdmZXZqemVvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eRIvTqn3CW1kYPpVXh/giphy.gif" width="100%" alt="AI GIF">
+        <br>
+        <strong>🤖 AI & Innovation</strong>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
