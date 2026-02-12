@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | DevOps Engineer | Data Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&color=FF0000,00FF00&width=700&lines=Engineering+Full+Stack+Systems+That+Scale+🚀;Automating+DevOps+Workflows+and+Cloud+Infrastructure+⚙️;Creating+Real+World+Web+Solutions+That+Matter+💻;Building+Robust+Applications+with+.NET+and+C%23+🔥;Transforming+Raw+Data+into+Actionable+Insights+📊;Pioneering+AI+and+Machine+Learning+Solutions+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&color=FF0000&width=700&lines=Engineering+Full+Stack+Systems+That+Scale+🚀;Automating+DevOps+Workflows+and+Cloud+Infrastructure+⚙️;Creating+Real+World+Web+Solutions+That+Matter+💻;Building+Robust+Applications+with+.NET+and+C%23+🔥;Transforming+Raw+Data+into+Actionable+Insights+📊;Pioneering+AI+and+Machine+Learning+Solutions+🤖" alt="Typing SVG" />
 </p>
 
 ---
