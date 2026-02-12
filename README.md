@@ -22,6 +22,10 @@
   <img src="https://komarev.com/ghpvc/?username=MbuyeloMich" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MbuyeloMich&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" alt="GitHub Streak Stats" />
+</p>
+
 ---
 
 ### 🎨 What I Do
@@ -83,6 +87,13 @@
   <a href="https://github.com/MbuyeloMich" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="GitHub">
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MbuyeloMich/MbuyeloMich/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <p align="center">
