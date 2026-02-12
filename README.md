@@ -1,8 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Sourabh</h1>
-<h3 align="center">Engineer | AI/ML Practitioner | Competitive Programmer | Creative Coder</h3>
+<h1 align="center">Hey there 👋, I'm Mbuyelo</h1>
+<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+AI-powered+systems+👨‍💻;Making+machines+see+%F0%9F%96%8D%EF%B8%8F;Solving+problems+with+code+%F0%9F%94%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=00FFB2&width=435&lines=Building+innovative+solutions+👨‍💻;Full+Stack+Development+🚀;Creating+amazing+projects+💡" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -13,18 +13,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently building: **Dropbox-cli**
-- 🌱 Learning: **Generative AI, Fine-Tuning, and Real-Time ML Inference**
-- ⚔️ Competitive Programming: Solving problems on **LeetCode**, **Codeforces**, and **GeeksforGeeks**
-- 💡 Created: 
-  - A **React + Flask AI Web App** for Brain Tumor Detection
-  - A **Peer-to-Peer File Sharing System** with local network discovery
-  - A **Real-time Hairstyle Recommendation App** based on face shape
-- 🚀 Passionate about: Merging **system-level engineering** with **deep learning**
+- 🔭 Currently working on: **Full Stack Projects**
+- 🌱 Learning: **New Technologies and Best Practices**
+- 💻 Building: **Creative and Functional Web Applications**
+- 🚀 Passionate about: **Clean Code, Problem Solving, and Continuous Learning**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Graphical27" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/018d1ba9-b1b5-4499-9165-a3b8e78ed26c.svg" alt="Total time coded since Jan 18 2024" />
+  <img src="https://komarev.com/ghpvc/?username=MbuyeloMich" alt="Profile Views" />
 </p>
 
 ---
@@ -64,8 +59,8 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/sourabh-singh-76651028a/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="LinkedIn">
+  <a href="https://github.com/MbuyeloMich" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" alt="GitHub">
   </a>
 </p>
 
