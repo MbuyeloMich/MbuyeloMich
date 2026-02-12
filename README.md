@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/network.gif" width="600" alt="Network Animation">
+  <img src="assets/network.gif" width="350" alt="Network Animation">
 </p>
 
 ---
