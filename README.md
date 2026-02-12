@@ -1,9 +1,9 @@
 
 <h1 align="center">Hey there 👋, I'm Mbuyelo</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | DevOps Engineer | Data Engineer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=0088FF,00D88A&width=550&lines=Building+Full+Stack+Solutions+👨‍💻;Implementing+DevOps+Pipelines+⚙️;Crafting+Modern+Web+Experiences+🎨;Developing+with+.NET+%26+C%23+💻;Analyzing+%26+Engineering+Data+📊;Exploring+AI+%26+Machine+Learning+🤖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=0088FF,00D88A&width=600&lines=Engineering+Full+Stack+Systems+That+Scale+🚀;Automating+DevOps+Workflows+%26+Cloud+Infrastructure+⚙️;Creating+Real-World+Web+Solutions+That+Matter+💻;Building+Robust+Applications+with+.NET+%26+C%23+🔥;Transforming+Raw+Data+into+Actionable+Insights+📊;Pioneering+AI+%26+Machine+Learning+Solutions+🤖" alt="Typing SVG" />
 </p>
 
 <div align="center">
